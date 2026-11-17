@@ -1,0 +1,9 @@
+streamlit
+ultralytics
+torch
+pandas
+numpy
+pillow
+fastapi
+uvicorn
+python-multipart
